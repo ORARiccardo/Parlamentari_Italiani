@@ -1,102 +1,77 @@
-*GREENS EUROPEAN FREE ALLIANCE*
-- marco.affronte@europarl.europa.eu,
-
-
-
-*PD - Group of the progressive alliance*
-- brando.benifei@europarl.europa.eu,
-0 goffredo.bettini@europarl.europa.eu,
-+ simona.bonafe@europarl.europa.eu,
-+ mercedes.bresso@europarl.europa.eu,
-- renata.briano@europarl.europa.eu,
-- nicola.caputo@europarl.europa.eu,
-caterina.chinnici@europarl.europa.eu,
-+ silvia.costa@europarl.europa.eu,
-- andrea.cozzolino@europarl.europa.eu,
-+ nicola.danti@europarl.europa.eu,
-+ paolo.decastro@europarl.europa.eu,
-+ isabella.demonte@europarl.europa.eu,
-+ enrico.gasbarra@europarl.europa.eu
-+ elena.gentile@europarl.europa.eu,
-- michela.giuffrida@europarl.europa.eu,
-+ roberto.gualtieri@europarl.europa.eu,
-- kashetu.kyenge@europarl.europa.eu,
-+ luigi.morgano@europarl.europa.eu,
-alessia.mosca@europarl.europa.eu,
-+ giuseppina.picierno@europarl.europa.eu,
-+ david.sassoli@europarl.europa.eu,
-renato.soru@europarl.europa.eu,
-+ patrizia.toia@europarl.europa.eu,
-- daniele.viotti@europarl.europa.eu,
-+ damiano.zoffoli@europarl.europa.eu,
-
-- flavio.zanonato@europarl.europa.eu,
-- pierantonio.panzeri@europarl.europa.eu,
-- massimo.paolucci@europarl.europa.eu,
-
-- sergio.cofferati@europarl.europa.eu,
-
-- elly.schlein@europarl.europa.eu,
-
-*M5S*
-- isabella.adinolfi@europarl.europa.eu,
-laura.agea@europarl.europa.eu,
-- daniela.aiuto@europarl.europa.eu,
-- tiziana.beghin@europarl.europa.eu,
-- david.borrelli@europarl.europa.eu,
-fabiomassimo.castaldo@europarl.europa.eu,
-- ignazio.corrao@europarl.europa.eu,
-- rosa.damato@europarl.europa.eu,
-- eleonora.evi@europarl.europa.eu
-- laura.ferrara@europarl.europa.eu,
-giulia.moi@europarl.europa.eu,
-- piernicola.pedicini@europarl.europa.eu,
-- dario.tamburrano@europarl.europa.eu,
-- marco.valli@europarl.europa.eu,
-- marco.zullo@europarl.europa.eu
-
-LEGA NORD - EUROPE OF NATIONS AND FREEDOM GROUP
-- mara.bizzotto@europarl.europa.eu,
-- mario.borghezio@europarl.europa.eu,
-- angelo.ciocca@europarl.europa.eu,
-
-marco.zanni@europarl.europa.eu,
-
-
-*FORZA ITALIA - EPP*
-salvatore.cicu@europarl.europa.eu,
-+ alberto.cirio@europarl.europa.eu,
-lara.comi@europarl.europa.eu,
-+ elisabetta.gardini@europarl.europa.eu,
-+ fulvio.martusciello@europarl.europa.eu,
-+ barbara.matera@europarl.europa.eu,
-+ stefano.maullu@europarl.europa.eu,
-alessandra.mussolini@europarl.europa.eu,
-aldo.patriciello@europarl.europa.eu,
-salvatoredomenico.pogliese@europarl.europa.eu,
-+ massimiliano.salini@europarl.europa.eu,
-antonio.tajani@europarl.europa.eu,
-
-lorenzo.cesa@europarl.europa.eu,
-
-- herbert.dorfmann@europarl.europa.eu,
-
-giovanni.lavia@europarl.europa.eu,
-
-
-
-*TSIPRAS - EUROPEAN LEFT*
-eleonora.forenza@europarl.europa.eu,
-curzio.maltese@europarl.europa.eu,
-
-- barbara.spinelli@europarl.europa.eu,
-
-*CONSERVATORI E RIFORMISTI*
-raffaele.fitto@europarl.europa.eu,
-+ remo.sernagiotto@europarl.europa.eu,
-
-
-
-
-
-
+*GREENS EUROPEAN FREE ALLIANCE*	
+AFFRONTE Marco	marco.affronte@europarl.europa.eu
+*PD - Group of the progressive alliance*	
+BENIFEI Brando	brando.benifei@europarl.europa.eu
+BETTINI Goffredo	goffredo.bettini@europarl.europa.eu
+BONAFE Simona	simona.bonafe@europarl.europa.eu
+BRESSO Mercedes	mercedes.bresso@europarl.europa.eu
+BRIANO Renata	renata.briano@europarl.europa.eu
+CAPUTO Nicola	nicola.caputo@europarl.europa.eu
+CHINNICI Caterina	caterina.chinnici@europarl.europa.eu
+COSTA Silvia	silvia.costa@europarl.europa.eu
+COZZOLINO Andrea	andrea.cozzolino@europarl.europa.eu
+DANTI Nicola	nicola.danti@europarl.europa.eu
+DECASTRO Paolo	paolo.decastro@europarl.europa.eu
+DEMONTE Isabell	isabella.demonte@europarl.europa.eu
+GASBARRA Enrico	enrico.gasbarra@europarl.europa.eu
+GENTILE Elena	elena.gentile@europarl.europa.eu
+GIUFFRIDA Michela	michela.giuffrida@europarl.europa.eu
+GUALTIERI Roberto	roberto.gualtieri@europarl.europa.eu
+KYENGE Kashetu	kashetu.kyenge@europarl.europa.eu
+MORGANO Luigi	luigi.morgano@europarl.europa.eu
+MOSCA Alessia	alessia.mosca@europarl.europa.eu
+PICIERNO Giuseppina	giuseppina.picierno@europarl.europa.eu
+SASSOLI David	david.sassoli@europarl.europa.eu
+SORU Renato	renato.soru@europarl.europa.eu
+TOIA Patrizia	patrizia.toia@europarl.europa.eu
+VIOTTI Daniele	daniele.viotti@europarl.europa.eu
+ZOFFOLI Damiano	damiano.zoffoli@europarl.europa.eu
+ZANONATO Flavio	flavio.zanonato@europarl.europa.eu
+PANZERI Pierantonio	pierantonio.panzeri@europarl.europa.eu
+PAOLUCCI Massimo	massimo.paolucci@europarl.europa.eu
+COFFERATI Sergio	sergio.cofferati@europarl.europa.eu
+SCHLEIN Elly	elly.schlein@europarl.europa.eu
+*M5S*	
+ADINOLFI Isabella	isabella.adinolfi@europarl.europa.eu
+AGEA Laura	laura.agea@europarl.europa.eu
+AIUTO Daniela	daniela.aiuto@europarl.europa.eu
+BEGHINI Tiziana	tiziana.beghin@europarl.europa.eu
+BORRELLI David	david.borrelli@europarl.europa.eu
+CASTALDO Fabio Massimo	fabiomassimo.castaldo@europarl.europa.eu
+CORRAO Ignazio	ignazio.corrao@europarl.europa.eu
+DAMATO Rosa	rosa.damato@europarl.europa.eu
+EVI Eleonora	eleonora.evi@europarl.europa.eu
+FERRARA Laura	laura.ferrara@europarl.europa.eu
+MOI Giulia	giulia.moi@europarl.europa.eu
+PEDICINI Piernicola	piernicola.pedicini@europarl.europa.eu
+TAMBURRANO Dario	dario.tamburrano@europarl.europa.eu
+VALLI Marco	marco.valli@europarl.europa.eu
+ZULLO Marco	marco.zullo@europarl.europa.eu
+LEGA NORD - EUROPE OF NATIONS AND FREEDOM GROUP	
+BIZZOTTO Mara	mara.bizzotto@europarl.europa.eu
+BORGHEZIO Mario	mario.borghezio@europarl.europa.eu
+CIOCCA Angelo	angelo.ciocca@europarl.europa.eu
+ZANNI Marco	marco.zanni@europarl.europa.eu
+*FORZA ITALIA - EPP*	
+CICU Salvatore	salvatore.cicu@europarl.europa.eu
+CIRIO Alberto	alberto.cirio@europarl.europa.eu
+COMI Lara	lara.comi@europarl.europa.eu
+GARDINI Elisabetta	elisabetta.gardini@europarl.europa.eu
+MARTUSCIELLO Fulvio	fulvio.martusciello@europarl.europa.eu
+MATERA Barbara	barbara.matera@europarl.europa.eu
+MAULLU Stefano	stefano.maullu@europarl.europa.eu
+MUSSOLINI Alessandra	alessandra.mussolini@europarl.europa.eu
+PATRICIELLO Aldo	aldo.patriciello@europarl.europa.eu
+POGLIESE Salvatore Domenico	salvatoredomenico.pogliese@europarl.europa.eu
+SALINI Massimiliano	massimiliano.salini@europarl.europa.eu
+TAJANI Antonio	antonio.tajani@europarl.europa.eu
+CESA Lorenzo	lorenzo.cesa@europarl.europa.eu
+DORFMANN Herbert	herbert.dorfmann@europarl.europa.eu
+LAVIA Giovanni	giovanni.lavia@europarl.europa.eu
+*TSIPRAS - EUROPEAN LEFT*	
+FORENZA Eleonora	eleonora.forenza@europarl.europa.eu
+MALTESE Curzio	curzio.maltese@europarl.europa.eu
+SPINELLI Barbara	barbara.spinelli@europarl.europa.eu
+*CONSERVATORI E RIFORMISTI*	
+FITTO Raffaele	raffaele.fitto@europarl.europa.eu
+SERNAGIOTTO Remo	remo.sernagiotto@europarl.europa.eu
